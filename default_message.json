@@ -1,0 +1,8 @@
+{
+  "ban_reason": "You have been banned by {admin}.",
+  "mute_reason": "You have been muted by {admin}.",
+  "warn_reason": "You have been warned: {reason}",
+  "report_notice": "Your report has been sent to the admins.",
+  "clean_notice": "Chat cleaned by admin.",
+  "error_usage": "Incorrect usage of command."
+}

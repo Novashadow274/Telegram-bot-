@@ -1,0 +1,20 @@
+{
+  "ban": "Ban a user (admin-only)",
+  "unban": "Unban a user (admin-only)",
+  "mute": "Mute a user (admin-only)",
+  "tpmute": "Temporarily mute a user (admin-only)",
+  "unmute": "Unmute a user (admin-only)",
+  "warn": "Warn a user (admin-only)",
+  "unwarn": "Remove a warning from a user (admin-only)",
+  "info": "Show info about a user",
+  "me": "Show your own info",
+  "clean": "Delete recent messages (owner-only)",
+  "promote": "Promote a user to admin (owner-only)",
+  "demote": "Demote a user from admin (owner-only)",
+  "kick": "Kick a user (owner-only)",
+  "report": "Report a message to admins",
+  "banwd": "Add a banned word (owner-only)",
+  "unwd": "Remove a banned word (owner-only)",
+  "banstk": "Ban a sticker pack (owner-only)",
+  "unbanstk": "Unban a sticker pack (owner-only)"
+}
